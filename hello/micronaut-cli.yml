@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: org.phyo
+---
+testFramework: junit
+sourceLanguage: java
