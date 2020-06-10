@@ -1,6 +1,6 @@
 # lab-oci-hello
 
-As a day-to-day C# and Visual Studio person, explore capabilities of OCI, Micronaut, and Docker given a one day learning time and 4 hour implementation time.
+As a day-to-day C# and Visual Studio person, explore capabilities of OCI, Micronaut, and Docker.
 
 Have fun!
 
